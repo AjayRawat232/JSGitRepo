@@ -1,1 +1,3 @@
 This is the second file that will be trackes by Git.
+
+This file added to the stagging.
